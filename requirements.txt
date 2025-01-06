@@ -1,0 +1,8 @@
+asgiref
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2
+PyJWT
+sqlparse
+tzdata
